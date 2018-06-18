@@ -1,0 +1,22 @@
+body{
+	font-family: 'Indie Flower', cursive;
+	background-color: #e6e9ef;
+	width: 1200px;
+	margin:0 auto;
+}
+img{
+	width: 500px;
+    margin-left: 275px;
+}
+.bar{
+	background-color:black;
+	color:white;
+}
+.bar a{
+	color: white;
+}
+.bar li {
+	list-style-type: none;
+	display: inline-block;
+	margin: 10px;
+}
